@@ -1,2 +1,2 @@
-DAISYX: python3 -m DaisyX
-ps:scale DAISYX=1
+DAISYX: python3 -m DKBOTZ
+ps:scale DKBOTZ=1
