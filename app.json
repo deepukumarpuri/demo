@@ -8,7 +8,7 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://t.me/DKBOTZ",
+  "repository": "https://github.com/deepukumarpuri/demo",
   "website": "https://t.me/DKBOTZ",
   "success_url": "t.me/DKBOTZ",
   "buildpacks": [
@@ -78,17 +78,17 @@
     "REDIS_URI": {
       "description": "Get from redislabs.com",
       "value": "",
-      "required": true
+      "required": false
     },
     "REDIS_PORT": {
       "description": "Get from redislabs.com",
       "value": "",
-      "required": true
+      "required": false
     },
     "REDIS_PASS": {
       "description": "Get from redislabs.com",
       "value": "",
-      "required": true
+      "required": false
     },
     "OWNER_ID": {
       "description": "Your Id",
@@ -113,7 +113,7 @@
     "DATABASE_URL": {
       "description": "get from elephantsql.com",
       "value": "",
-      "required": true
+      "required": false
     },
     "VIRUS_API_KEY": {
       "description": "Cloudmersive api (no need)",
