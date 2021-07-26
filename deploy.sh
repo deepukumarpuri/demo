@@ -2,7 +2,7 @@
 echo "
 *********** STARTING DEPLOY ***********
 
-DAISYX v2 -Base Aiogram
+DKBOTZ v2 -Base Aiogram
 (C) 2020-2021 by @DKBOTZ
 Support Chat is @DKBOTZ.
 
