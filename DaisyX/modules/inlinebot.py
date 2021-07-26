@@ -71,7 +71,7 @@ __help__ = """
 <i> I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.</i>
 
 <b>Syntax</b>
-   @DaisyXBot [command] [query]
+   @@DKBOTZ [command] [query]
 
 <b> Commands Available</b>
 - alive - Check Bot's Stats.
@@ -115,7 +115,7 @@ __HELP__ = """
 `I'm more efficient when added as group admin. By the way these commands can be used by anyone in a group via inline.`
 
    >> Syntax <<
-@DaisyXBot [command] [query]
+   @DKBOTZ [command] [query]
 
    >> Commands Available <<
 - **alive** - __Check Bot's Stats.__
