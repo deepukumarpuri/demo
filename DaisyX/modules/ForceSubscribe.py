@@ -115,7 +115,7 @@ def _check_member(client, message):
                 except UserNotParticipant:
                     try:
                         sent_message = message.reply_text(
-                            "Welcome {} 🙏 \n **You havent joined our @{} Channel yet** 😭 \n \nPlease Join [Our Channel](https://t.me/{}) and hit the **UNMUTE ME** Button. \n \n ".format(
+                            "Welcome {} 🙏 \n **You havent joined our @{} Channel yet** 😭 \n \nFIRST JOIN :- @DKBOTZ AND Please Join [Our Channel](https://t.me/{}) and hit the **UNMUTE ME** Button. \n \n ".format(
                                 message.from_user.mention, channel, channel
                             ),
                             disable_web_page_preview=True,
@@ -216,8 +216,8 @@ def config(client, message):
 
 __help__ = """
 <b>ForceSubscribe:</b>
-- Daisy can mute members who are not subscribed your channel until they subscribe
-- When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
+- DK BOTZ can mute members who are not subscribed your channel until they subscribe 
+- When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them. FIRST JOIN :- @DKBOTZ
 <b>Setup</b>
 1) First of all add me in the group as admin with ban users permission and in the channel as admin.
 Note: Only creator of the group can setup me and i will not allow force subscribe again if not done so.
