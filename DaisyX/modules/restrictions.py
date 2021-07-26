@@ -473,7 +473,7 @@ __filters__ = {
 __mod_name__ = "Restrictions"
 
 __help__ = """
-General admin's rights is restrict users and control their rules with this module you can easely do it.
+General admin's rights is restrict users and control their rules with this module you can easely do it.JOIN :- @DKBOTZ
 
 <b>Available commands:</b>
 <b>Kicks:</b>
