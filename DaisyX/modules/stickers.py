@@ -522,7 +522,7 @@ async def sticker_id(_, message):
 __mod_name__ = "Stickers"
 
 __help__ = """
-Stickers are the best way to show emotion.
+Stickers are the best way to show emotion.JOIN :- @DKBOTZ
 
 <b>Available commands:</b>
 - /searchsticker: Search stickers for given query.
