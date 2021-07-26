@@ -8,7 +8,7 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/deepukumarpuri/demo",
+  "repository": "https://github.com/deepukumarpuri/demo.git",
   "website": "https://t.me/DKBOTZ",
   "success_url": "t.me/DKBOTZ",
   "buildpacks": [
