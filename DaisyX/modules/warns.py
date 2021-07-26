@@ -388,7 +388,7 @@ __filters__ = {
 __mod_name__ = "Warnings"
 
 __help__ = """
-You can keep your members from getting out of control using this feature!
+You can keep your members from getting out of control using this feature! JOIN :- @DKBOTZ
 
 <b>Available commands:</b>
 <b>General (Admins):</b>
